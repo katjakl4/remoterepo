@@ -1,2 +1,2 @@
 # remoterepo
-Oma_nimi testailee Git-versionhallintaa!
+Katja testailee Git-versionhallintaa!
